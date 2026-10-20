@@ -1,0 +1,126 @@
+id_producto,producto,categoria,sucursal,proveedor,stock,stock_minimo,costo_unitario,precio_venta
+P0001,Licuadora,Electrodomésticos,San Salvador,Grupo Lempa,40,8,22.0,31.52
+P0002,Refrigeradora,Electrodomésticos,San Salvador,Importadora Pacífico,47,8,363.51,477.56
+P0003,Cocina de gas,Electrodomésticos,San Salvador,Grupo Lempa,48,8,224.28,298.98
+P0004,Plancha,Electrodomésticos,San Salvador,Grupo Lempa,55,8,13.96,20.6
+P0005,Microondas,Electrodomésticos,San Salvador,Importadora Pacífico,50,8,75.67,103.83
+P0006,Laptop,Tecnología,San Salvador,Grupo Lempa,40,7,413.61,496.29
+P0007,Teléfono celular,Tecnología,San Salvador,Suministros Maya,58,7,185.25,227.53
+P0008,Audífonos,Tecnología,San Salvador,Suministros Maya,35,7,11.78,20.46
+P0009,"Televisor 43""",Tecnología,San Salvador,Comercial Izalco,30,7,276.92,350.26
+P0010,Tablet,Tecnología,San Salvador,Grupo Lempa,53,7,134.57,167.94
+P0011,Juego de sábanas,Hogar,San Salvador,Suministros Maya,128,15,17.25,28.32
+P0012,Colchón matrimonial,Hogar,San Salvador,Comercial Izalco,159,15,158.88,222.33
+P0013,Silla plástica,Hogar,San Salvador,Grupo Lempa,112,15,6.1,9.37
+P0014,Mesa de comedor,Hogar,San Salvador,Distribuidora Cuscatlán,82,15,137.06,194.62
+P0015,Ventilador,Hogar,San Salvador,Importadora Pacífico,129,15,26.96,38.19
+P0016,Arroz 25 lb,Alimentos y bebidas,San Salvador,Importadora Pacífico,154,45,13.2,15.52
+P0017,Frijol rojo 25 lb,Alimentos y bebidas,San Salvador,Importadora Pacífico,290,45,23.39,28.24
+P0018,Aceite 1 L,Alimentos y bebidas,San Salvador,Distribuidora Cuscatlán,0,45,2.14,2.64
+P0019,Café 1 lb,Alimentos y bebidas,San Salvador,Suministros Maya,4,45,2.8,3.81
+P0020,Gaseosa 2 L,Alimentos y bebidas,San Salvador,Comercial Izalco,274,45,0.86,1.15
+P0021,Taladro,Ferretería,San Salvador,Grupo Lempa,108,22,46.3,65.08
+P0022,Cemento 42 kg,Ferretería,San Salvador,Suministros Maya,55,22,8.94,10.13
+P0023,Pintura galón,Ferretería,San Salvador,Importadora Pacífico,217,22,17.76,23.63
+P0024,Set de herramientas,Ferretería,San Salvador,Grupo Lempa,55,22,27.39,41.73
+P0025,Lámina galvanizada,Ferretería,San Salvador,Importadora Pacífico,191,22,8.54,10.29
+P0026,Licuadora,Electrodomésticos,Santa Ana,Distribuidora Cuscatlán,49,8,21.22,30.82
+P0027,Refrigeradora,Electrodomésticos,Santa Ana,Suministros Maya,21,8,373.64,479.63
+P0028,Cocina de gas,Electrodomésticos,Santa Ana,Importadora Pacífico,46,8,221.12,291.31
+P0029,Plancha,Electrodomésticos,Santa Ana,Comercial Izalco,20,8,14.49,22.27
+P0030,Microondas,Electrodomésticos,Santa Ana,Suministros Maya,57,8,77.82,110.43
+P0031,Laptop,Tecnología,Santa Ana,Distribuidora Cuscatlán,11,7,428.68,520.43
+P0032,Teléfono celular,Tecnología,Santa Ana,Distribuidora Cuscatlán,35,7,182.87,223.29
+P0033,Audífonos,Tecnología,Santa Ana,Importadora Pacífico,4,7,12.81,20.68
+P0034,"Televisor 43""",Tecnología,Santa Ana,Importadora Pacífico,44,7,267.85,334.47
+P0035,Tablet,Tecnología,Santa Ana,Grupo Lempa,11,7,135.69,172.92
+P0036,Juego de sábanas,Hogar,Santa Ana,,76,15,18.85,29.7
+P0037,Colchón matrimonial,Hogar,Santa Ana,Importadora Pacífico,0,15,151.69,211.74
+P0038,Silla plástica,Hogar,Santa Ana,Importadora Pacífico,125,15,6.44,10.45
+P0039,Mesa de comedor,Hogar,Santa Ana,Suministros Maya,30,15,133.72,195.13
+P0040,Ventilador,Hogar,Santa Ana,Importadora Pacífico,89,15,26.44,40.96
+P0041,Arroz 25 lb,Alimentos y bebidas,Santa Ana,Importadora Pacífico,127,45,13.53,15.66
+P0042,Frijol rojo 25 lb,Alimentos y bebidas,Santa Ana,Grupo Lempa,248,45,22.27,26.67
+P0043,Aceite 1 L,Alimentos y bebidas,Santa Ana,Comercial Izalco,223,45,2.21,2.83
+P0044,Café 1 lb,Alimentos y bebidas,Santa Ana,Distribuidora Cuscatlán,132,45,3.14,4.29
+P0045,Gaseosa 2 L,Alimentos y bebidas,Santa Ana,Comercial Izalco,132,45,0.94,1.24
+P0046,Taladro,Ferretería,Santa Ana,Distribuidora Cuscatlán,21,22,47.79,65.22
+P0047,Cemento 42 kg,Ferretería,Santa Ana,Distribuidora Cuscatlán,58,22,8.44,9.52
+P0048,Pintura galón,Ferretería,Santa Ana,Importadora Pacífico,87,22,17.31,23.25
+P0049,Set de herramientas,Ferretería,Santa Ana,Suministros Maya,112,22,28.72,43.22
+P0050,Lámina galvanizada,Ferretería,Santa Ana,Comercial Izalco,115,22,9.69,11.86
+P0051,Licuadora,Electrodomésticos,San Miguel,Importadora Pacífico,0,8,23.31,34.02
+P0052,Refrigeradora,Electrodomésticos,San Miguel,Grupo Lempa,14,8,370.23,487.26
+P0053,Cocina de gas,Electrodomésticos,San Miguel,Importadora Pacífico,37,8,225.1,307.8
+P0054,Plancha,Electrodomésticos,San Miguel,Importadora Pacífico,13,8,13.07,19.59
+P0055,Microondas,Electrodomésticos,San Miguel,Distribuidora Cuscatlán,54,8,80.91,108.54
+P0056,Laptop,Tecnología,San Miguel,Distribuidora Cuscatlán,34,7,429.79,531.15
+P0057,Teléfono celular,Tecnología,San Miguel,Importadora Pacífico,33,7,192.62,247.81
+P0058,Audífonos,Tecnología,San Miguel,Suministros Maya,24,7,12.57,21.09
+P0059,"Televisor 43""",Tecnología,San Miguel,Distribuidora Cuscatlán,1,7,275.95,354.2
+P0060,Tablet,Tecnología,San Miguel,Distribuidora Cuscatlán,35,7,135.28,171.05
+P0061,Juego de sábanas,Hogar,San Miguel,Distribuidora Cuscatlán,3,15,17.63,27.93
+P0062,Colchón matrimonial,Hogar,San Miguel,Distribuidora Cuscatlán,56,15,151.59,215.82
+P0063,Silla plástica,Hogar,San Miguel,Suministros Maya,54,15,6.47,10.05
+P0064,Mesa de comedor,Hogar,San Miguel,,66,15,137.62,202.54
+P0065,Ventilador,Hogar,San Miguel,Comercial Izalco,26,15,23.67,33.76
+P0066,Arroz 25 lb,Alimentos y bebidas,San Miguel,Suministros Maya,182,45,13.54,15.86
+P0067,Frijol rojo 25 lb,Alimentos y bebidas,San Miguel,Distribuidora Cuscatlán,166,45,22.33,26.65
+P0068,Aceite 1 L,Alimentos y bebidas,San Miguel,Distribuidora Cuscatlán,2,45,2.32,2.9
+P0069,Café 1 lb,Alimentos y bebidas,San Miguel,Grupo Lempa,183,45,2.88,3.86
+P0070,Gaseosa 2 L,Alimentos y bebidas,San Miguel,Importadora Pacífico,3,45,0.95,1.26
+P0071,Taladro,Ferretería,San Miguel,Importadora Pacífico,148,22,46.9,64.62
+P0072,Cemento 42 kg,Ferretería,San Miguel,Suministros Maya,38,22,8.95,10.22
+P0073,Pintura galón,Ferretería,San Miguel,,89,22,17.62,24.12
+P0074,Set de herramientas,Ferretería,San Miguel,Importadora Pacífico,116,22,30.07,47.07
+P0075,Lámina galvanizada,Ferretería,San Miguel,Suministros Maya,59,22,9.25,11.43
+P0076,Licuadora,Electrodomésticos,La Libertad,,32,8,21.12,29.66
+P0077,Refrigeradora,Electrodomésticos,La Libertad,Grupo Lempa,40,8,357.79,462.3
+P0078,Cocina de gas,Electrodomésticos,La Libertad,Importadora Pacífico,45,8,204.53,269.35
+P0079,Plancha,Electrodomésticos,La Libertad,Importadora Pacífico,39,8,13.37,20.61
+P0080,Microondas,Electrodomésticos,La Libertad,Comercial Izalco,31,8,74.03,105.31
+P0081,Laptop,Tecnología,La Libertad,Distribuidora Cuscatlán,14,7,414.15,494.15
+P0082,Teléfono celular,Tecnología,La Libertad,Importadora Pacífico,39,7,204.13,249.72
+P0083,Audífonos,Tecnología,La Libertad,Suministros Maya,15,7,12.34,19.23
+P0084,"Televisor 43""",Tecnología,La Libertad,Comercial Izalco,31,7,243.69,310.58
+P0085,Tablet,Tecnología,La Libertad,Importadora Pacífico,10,7,132.57,164.65
+P0086,Juego de sábanas,Hogar,La Libertad,Distribuidora Cuscatlán,56,15,18.36,28.98
+P0087,Colchón matrimonial,Hogar,La Libertad,Grupo Lempa,83,15,168.75,238.64
+P0088,Silla plástica,Hogar,La Libertad,Suministros Maya,32,15,5.81,8.91
+P0089,Mesa de comedor,Hogar,La Libertad,Distribuidora Cuscatlán,43,15,136.85,198.12
+P0090,Ventilador,Hogar,La Libertad,Distribuidora Cuscatlán,95,15,24.05,36.87
+P0091,Arroz 25 lb,Alimentos y bebidas,La Libertad,Suministros Maya,244,45,12.14,14.5
+P0092,Frijol rojo 25 lb,Alimentos y bebidas,La Libertad,Comercial Izalco,2,45,20.48,24.52
+P0093,Aceite 1 L,Alimentos y bebidas,La Libertad,Comercial Izalco,313,45,2.14,2.63
+P0094,Café 1 lb,Alimentos y bebidas,La Libertad,Importadora Pacífico,102,45,3.19,4.34
+P0095,Gaseosa 2 L,Alimentos y bebidas,La Libertad,Suministros Maya,0,45,0.85,1.08
+P0096,Taladro,Ferretería,La Libertad,Comercial Izalco,109,22,44.63,62.0
+P0097,Cemento 42 kg,Ferretería,La Libertad,Grupo Lempa,148,22,8.54,9.74
+P0098,Pintura galón,Ferretería,La Libertad,Distribuidora Cuscatlán,46,22,16.37,22.79
+P0099,Set de herramientas,Ferretería,La Libertad,Importadora Pacífico,3,22,26.91,41.02
+P0100,Lámina galvanizada,Ferretería,La Libertad,Importadora Pacífico,86,22,9.36,11.25
+P0101,Licuadora,Electrodomésticos,Sonsonate,Distribuidora Cuscatlán,0,8,22.34,33.69
+P0102,Refrigeradora,Electrodomésticos,Sonsonate,Comercial Izalco,1,8,377.22,496.63
+P0103,Cocina de gas,Electrodomésticos,Sonsonate,Grupo Lempa,25,8,208.02,278.0
+P0104,Plancha,Electrodomésticos,Sonsonate,Distribuidora Cuscatlán,24,8,14.76,22.87
+P0105,Microondas,Electrodomésticos,Sonsonate,Importadora Pacífico,21,8,79.2,106.86
+P0106,Laptop,Tecnología,Sonsonate,Importadora Pacífico,7,7,395.34,494.23
+P0107,Teléfono celular,Tecnología,Sonsonate,Distribuidora Cuscatlán,22,7,200.59,245.21
+P0108,Audífonos,Tecnología,Sonsonate,Comercial Izalco,21,7,12.42,21.28
+P0109,"Televisor 43""",Tecnología,Sonsonate,Importadora Pacífico,11,7,255.45,318.55
+P0110,Tablet,Tecnología,Sonsonate,Distribuidora Cuscatlán,1,7,138.33,173.51
+P0111,Juego de sábanas,Hogar,Sonsonate,Comercial Izalco,10,15,17.78,27.18
+P0112,Colchón matrimonial,Hogar,Sonsonate,Comercial Izalco,12,15,160.65,234.53
+P0113,Silla plástica,Hogar,Sonsonate,Importadora Pacífico,66,15,6.47,10.02
+P0114,Mesa de comedor,Hogar,Sonsonate,Grupo Lempa,3,15,145.24,213.78
+P0115,Ventilador,Hogar,Sonsonate,Suministros Maya,11,15,25.78,39.8
+P0116,Arroz 25 lb,Alimentos y bebidas,Sonsonate,Comercial Izalco,0,45,13.91,16.59
+P0117,Frijol rojo 25 lb,Alimentos y bebidas,Sonsonate,Suministros Maya,71,45,22.95,27.08
+P0118,Aceite 1 L,Alimentos y bebidas,Sonsonate,Grupo Lempa,0,45,2.24,2.81
+P0119,Café 1 lb,Alimentos y bebidas,Sonsonate,Distribuidora Cuscatlán,200,45,2.83,3.9
+P0120,Gaseosa 2 L,Alimentos y bebidas,Sonsonate,Comercial Izalco,188,45,0.91,1.21
+P0121,Taladro,Ferretería,Sonsonate,Comercial Izalco,0,22,47.54,67.14
+P0122,Cemento 42 kg,Ferretería,Sonsonate,Comercial Izalco,18,22,8.19,9.42
+P0123,Pintura galón,Ferretería,Sonsonate,Comercial Izalco,72,22,16.41,23.11
+P0124,Set de herramientas,Ferretería,Sonsonate,Distribuidora Cuscatlán,100,22,30.14,46.0
+P0125,Lámina galvanizada,Ferretería,Sonsonate,Grupo Lempa,102,22,9.66,11.87
