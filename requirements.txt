@@ -1,0 +1,4 @@
+pandas>=3.0.6
+matplotlib>=3.11.2
+PyQt5>=5.15.11
+reportlab>=5.0.1
